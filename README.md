@@ -12,7 +12,7 @@ BCA student specialising in Artificial Intelligence and Machine Learning, based 
 
 | Project | What it does |
 | --- | --- |
-| MiraiDesk-AI| 🚧 Currently building this. More details coming soon |
+   | [MiraiDesk-AI](https://github.com/SukeshaPS701/MiraiDesk-AI) | 🚧 Currently building this. More details coming soon |
 | [AI-Agent](https://github.com/SukeshaPS701/AI-Agent) | Python AI agent project |
 | [Customer-Churn-Analysis](https://github.com/SukeshaPS701/Customer-Churn-Analysis) | Analyses which customers are likely to leave |
 | [Spam-Mail-Prediction](https://github.com/SukeshaPS701/Spam-Mail-Prediction) | Classifies emails as spam or not spam |
