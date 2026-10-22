@@ -1,6 +1,6 @@
 <div align="center">
 
-![Sukesha PS - animated profile banner](assets/profile-hero-dark.svg)
+![Sukesha PS - animated profile banner](profile-hero-dark.svg)
 
 </div>
 
