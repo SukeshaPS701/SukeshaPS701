@@ -12,11 +12,13 @@ BCA student specialising in Artificial Intelligence and Machine Learning, based 
 
 | Project | What it does |
 | --- | --- |
+| **MiraiDesk-AI** | 🚧 Currently building this. More details coming soon |
+| [AI-Agent](https://github.com/SukeshaPS701/AI-Agent) | Python AI agent project |
 | [Customer-Churn-Analysis](https://github.com/SukeshaPS701/Customer-Churn-Analysis) | Analyses which customers are likely to leave |
 | [Spam-Mail-Prediction](https://github.com/SukeshaPS701/Spam-Mail-Prediction) | Classifies emails as spam or not spam |
 | [Music-Recommendation-System-project-](https://github.com/SukeshaPS701/Music-Recommendation-System-project-) | Recommends music based on listening data |
 | [Face-Detection](https://github.com/SukeshaPS701/Face-Detection) | Detects faces in images |
-| [AI-Agent](https://github.com/SukeshaPS701/AI-Agent) | Python AI agent project |
+| [Student_Scores](https://github.com/SukeshaPS701/Student_Scores) | Student scores data project (my second repo) |
 
 ## Stack
 
